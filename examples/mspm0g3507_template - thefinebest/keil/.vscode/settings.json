@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "gui.h": "c",
+    "drv_key.h": "c"
+  }
+}
